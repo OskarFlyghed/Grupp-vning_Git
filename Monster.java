@@ -12,7 +12,7 @@ public class Monster {
 
     // Method which describes the monster
     public void describe() {
-        System.out.println("Monster: " + monsterName + ", HP: " + hp); // sdfsdfsdfs
+        System.out.println("Monster: " + monsterName + ", HP: " + hp);
 
     }
 }
